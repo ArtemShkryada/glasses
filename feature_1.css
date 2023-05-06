@@ -189,13 +189,13 @@ polygon {
 
 .pages {
     list-style-type: none;
-    font-family: montserrat;
-    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
     color: #AE3929;
     margin: 20px;
     display: flex;
     width: 70%;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 .glasses{
     height: 437px;
